@@ -1,2 +1,5 @@
 venv/
 .env
+
+# Exclude PyCharm project files
+/.idea/
